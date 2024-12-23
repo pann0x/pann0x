@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,  👋
 
 <!--
 **pann0x/pann0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pann0x&label=Profile%20Views&color=12&icon=1&pretty=true" />
+</a>
