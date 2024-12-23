@@ -1,15 +1,13 @@
 ## Hi there 👋 feel free to look around what I do!
 
-# Video Editor and Coder Portfolio
-
 ## About Me
 Hi, I'm Pann, a passionate video editor and coder. Here's a glimpse into my work and skills.
 
 ## Video Editing Projects
-- [Huma Finance Hype Video] [url](https://x.com/pann0x/status/1871129578846265562) - Submission for SuperTeam Earn Bounty
+- [Huma Finance Hype Video](https://x.com/pann0x/status/1871129578846265562) - Submission for SuperTeam Earn Bounty
 
 ## Coding Projects
-- [Project Name 1](repo link) - Technologies used: JavaScript, React
+- [Project Name 1](https://github.com/pann0x/tipmesolana) - Technologies used: JavaScript, React
 
 ## Skills
 - **Video Editing**: Davinci Resolve
