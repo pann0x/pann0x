@@ -7,7 +7,7 @@ Hi, I'm Pann, a passionate video editor and coder. Here's a glimpse into my work
 - [Huma Finance Hype Video](https://x.com/pann0x/status/1871129578846265562) - Submission for SuperTeam Earn Bounty
 
 ## Coding Projects
-- [Project Name 1](https://github.com/pann0x/tipmesolana) - Technologies used: JavaScript, React
+- [TipMeSolana](https://github.com/pann0x/tipmesolana) - Technologies used: JavaScript, React
 
 ## Skills
 - **Video Editing**: Davinci Resolve
