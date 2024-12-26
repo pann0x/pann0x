@@ -9,7 +9,7 @@ Hi, I'm Pann, a passionate video editor and coder. Here's a glimpse into my work
 ## Coding Projects
 - [TipMeSolana](https://github.com/pann0x/tipmesolana) - Technologies used: JavaScript, React
 - [Community Controlled Marketing Wallet](https://github.com/pann0x/Community-Controlled-DEX-Marketing-Wallet) - Technologies used: Anchor Framework, Rust, Typescript
-- 
+
 ## Skills
 - **Video Editing**: Davinci Resolve
 - **Coding**: JavaScript, Python, LuaU, Rust 
