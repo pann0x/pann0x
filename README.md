@@ -12,7 +12,7 @@ Hi, I'm Pann, a passionate video editor and coder. Here's a glimpse into my work
 
 ## Skills
 - **Video Editing**: Davinci Resolve
-- **Coding**: JavaScript, Python, LuaU, Rust 
+- **Coding**: Typescript, JavaScript, Python, LuaU, Rust 
 
 ## Achievements
 - Starting
