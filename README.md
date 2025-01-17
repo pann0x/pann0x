@@ -3,6 +3,8 @@
 ## About Me
 Hi, I'm Pann, a passionate video editor and coder. Here's a glimpse into my work and skills.
 
+🌎[Portfolio](https://pann0x.github.io)
+
 ## Video Editing Projects
 - [Huma Finance Hype Video](https://x.com/pann0x/status/1871129578846265562) - Submission for SuperTeam Earn Bounty
 
